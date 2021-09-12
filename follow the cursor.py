@@ -12,7 +12,7 @@ clock = pygame.time.Clock()
 
 angle = 0  # don't really worry about this one its for the function
 radius = 50
-angle_plus = 70  # where the angle starts (can be anything you want)
+angle_plus = 0  # where the angle starts (can be anything you want)
 plus_amount = .01
 
 screen_x, screen_y = 1000, 700
